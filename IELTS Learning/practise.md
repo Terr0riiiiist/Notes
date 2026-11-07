@@ -1,0 +1,1 @@
+The chart illustrates the process by which bricks are manufactured and distributed to the market, comprising seven stages.
