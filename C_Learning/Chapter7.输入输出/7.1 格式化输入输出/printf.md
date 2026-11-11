@@ -81,3 +81,11 @@ int main(void) {
 	  7
 
 * *%n不会输出结果，而是将此前已经**输出的字符数量**写入对应的整数指针所指向的内存
+
+
+### 返回值
+```c
+int count = printf("Hello, %s!\n", "Alice"); 
+// 输出 "Hello, Alice!\n"，总共 14 个字符
+// count 的值将是 14
+```
