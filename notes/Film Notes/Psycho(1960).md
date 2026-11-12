@@ -1,0 +1,37 @@
+- do some buying
+- hot as fresh milk
+- inordinately
+- wedding present
+- deposit box
+- what in the world
+- pull over
+- strike your eyes
+- dump it out
+- Cabin one(客房)
+- stuffy
+- awful homey
+- What is the phrase
+- fix a supper
+- stuff things
+- budge an inch
+- cold and damp like a grave
+- 
+- old habits die hard
+- confined
+- deputy sheriff
+- overanxious
+- Periwinkle blue
+- ludicrious
+- fruit cellar
+- take the air
+- keep somebody occupied.
+- be more than happy
+- sock away
+- lay groundwork
+- vicinity
+- matricide
+- corpse
+- 
+
+
+
