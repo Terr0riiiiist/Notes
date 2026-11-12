@@ -1,7 +1,7 @@
 The  iNTERNATIONAL LABOR org says nearly 200m are without jobs.
 & ILO is warning higher unemployment this year.
 
-THE United Nation's Agency this week released a report called Global employment trends 2013.It says the number of unemployed worldwide rose about 4m last year, compared with 2011.The report says 1/4 of this increase was in developed economies. The remaining 75% percent were (*mainly*)in developing economies in Asia and  Africa n countries ,south of the sahhara desert.
+THE United Nation's Agency this week released a report called Global employment trends 2013.It says the number of unemployed worldwide rose by more than 4m last year, compared with 2011.The report says 1/4 of this increase was in developed economies. The remaining 75% percent were (*mainly*)in developing economies in Asia and  Africa n countries ,south of the sahhara desert.
 
 The ILO's director general, ... is concerned about the world economy. He says the recovery is not  expected to be strong enough to reduce  unemployment quickly.
 
