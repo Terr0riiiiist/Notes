@@ -6,4 +6,4 @@ WB President jimyoung kim is urgening developing coutries to be the driver of th
 He said wt we suggesting is that we cnnot  the return to growth  in the higher income countries.
 We really develoiping countries to think about setting the stage for medium and long-term growth.We have to continue to support the developing countries and making investments in structure in health & edu.
 
-.... is lead auth of report., not only to build rd,bridge., money in heath care, eff in gov reforms.the report notes the threat of eurp nations failing to make dead payments has eased.the wd prisendt 
+.... is lead auth of report., not only to build rd,bridge., money in heath care, eff in gov reforms.the report notes the threat of eurp nations failing to make dead payments has eased.the wd prisedent says erp and usa have approved  some measusres to deal with eco weakness. he said so despite promising and courageous measures take in europe, issues remaining in eu
