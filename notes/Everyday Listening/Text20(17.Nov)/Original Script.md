@@ -1,0 +1,9 @@
+**Reporter:** At Islamabad gas stations, this is what it looks like on Wednesdays. People are stocking up because on Thursday, Friday, and Saturday, stations close and there is no gas. In recent years, when gasoline prices rose, millions of drivers converted their cars to run on compressed natural gas, or CNG, but now that's in short supply. Law lecturer Syed Shafaat Ali says the problem is getting worse.
+
+**Syed Shafaat Ali (Law Lecturer):** This is affecting lives of people very badly. For example, here I come on the days when the CNG is available and I get in the queue and then I have to wait for two or three hours. I'm sorry to say, it is also disturbing the psyche of the people. People are losing confidence on our government because the government is taking no interest towards a very serious problem which the people are facing.
+
+**Reporter:** Government officials say they are trying to ease the energy shortages and are considering gas imports from neighboring Iran and more hydropower dams for electricity. The pledges don't mean much to women like Rukhshanda Abdul Rehman.
+
+**Rukhshanda Abdul Rehman:** The gas stops at 5:30 in the morning. We keep checking for gas at night in order to cook. All day long we use cold water, and everyone knows how cold it is in Islamabad. Our government and policymakers are not aware of what they should provide to the people. In summers, we can't sleep because of the lack of electricity, and in winter, we get sick because there is no gas.
+
+**Reporter:** Struggles like Rehman's are repeated millions of times across the country, and these daily frustrations are symptoms of the bigger drag on Pakistan's struggling economy. Lawmakers were unavailable to discuss how they are planning to fix the problem—one the Petroleum Institute of Pakistan calls a crisis that is slowing down the country's social and economic development.
