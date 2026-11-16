@@ -1,0 +1,1 @@
+Today the euro is a symbol of division, soverign debts and banking problems begin in Greece has spread to other
