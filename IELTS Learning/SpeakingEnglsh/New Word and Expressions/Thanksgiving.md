@@ -1,3 +1,5 @@
 - 4th Thursday of November
 - celebrates the autumn harvest and give thanks for the year's abundance and blessings.
-
+- breaking the wishbone
+- Count your blessing
+	- to have gratitude and appreciation for what one has
