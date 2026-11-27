@@ -60,7 +60,46 @@ public class Assignment2_fix {
 }
 ```
 
-#### Note1: 双指针不一定必须是嵌套，可以是平行
+#### Note1: 双指针不一定必须是嵌套，可以是平行￼￼C￼
+#include <stdio.h>
+#include <stdlib.h>
+void merge(int *arr, int left, int mid, int right) ;
+
+￼void merge_sort(int *arr, int left, int right) {
+    int mid = left + (right - left) / 2;
+    if (right <= left) return;
+    merge_sort(arr, left, mid);
+    merge_sort(arr, mid + 1, right);
+    merge(arr, left, mid, right);
+}
+￼void merge(int *arr, int left, int mid, int right) {
+    int *temp = (int*) malloc(sizeof(int) * (right-left+1)); // 1. Create temporary array
+    int cnt = 0;  // 2. Initialize pointers
+    int i = left;
+    int j = mid + 1;
+
+    ￼while (i <= mid && j <= right){      // 3. Compare elements and merge
+        ￼if(arr[i] <= arr[j]){
+            temp[cnt++] = arr[i++];
+        } else temp[cnt++] = arr[j++];
+    }
+
+    while (i <= mid  ) temp [cnt++] = arr[i++] ;  // 4. Append remaining elements
+    while (j <= right) temp [cnt++] = arr[j++] ;
+
+    cnt = 0;   // 5. Copy back to original array
+    for(; left <right; left++)  arr[left] = temp[cnt++];
+    free(temp);
+}
+
+
+￼int main(void){
+    int arr [10] = {9,5,1,4,3,10,2,1,0,7};
+    merge_sort(arr, 0, 9);
+    ￼for(int i=0; i<10; i++ ){
+        printf("%d\n",arr[i]);
+    }
+}
 *例如本题目中只需要比较A[i]和B[j],两个指针独立运行*
 #### Note2:  指针的自增
 *如果指针自增写在内层if,即去重if，如果不重复指针就不走，形成死循环*
@@ -71,3 +110,4 @@ public class Assignment2_fix {
 #### Note5: 注意指针范围一定要落在[0,length-1]
 *使用count-1这种指针时，要筛选非负情况*
 
+[[2. 归并排序(Merge_Sort)]]
