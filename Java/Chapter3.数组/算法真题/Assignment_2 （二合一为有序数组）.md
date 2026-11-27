@@ -110,4 +110,4 @@ void merge(int *arr, int left, int mid, int right) ;
 #### Note5: 注意指针范围一定要落在[0,length-1]
 *使用count-1这种指针时，要筛选非负情况*
 
-[[2. 归并排序(Merge_Sort)]]
+[[代码实现(Merge_Sort)]]

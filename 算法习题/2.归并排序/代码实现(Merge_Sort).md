@@ -47,7 +47,7 @@ int main(void){
 #### 归&并
 归就是把一个数组里所有的数二分成小数组直到被分成单独的数；然后执行[[Assignment_2 （二合一为有序数组）]]
 
-#### merge_sort 详解
+#### merge_sort() 详解
 ```c
 void merge_sort(int *arr, int left, int right) {
     int mid = left + (right - left) / 2;
@@ -58,6 +58,10 @@ void merge_sort(int *arr, int left, int right) {
 }
 ```
 *调用的子递归结束之后回到外层递归执行下一行，而不是直接退出*
-**主函数先入栈, 然后子递归"压"在主函数上层;子递归结束，
+- 调用时：新函数（包括递归产生的子调用）压到栈顶。
+- 返回时：栈顶函数出栈，控制权交还给它下面那一层（调用者），调用者从调用点继续往下执行。
+- 主函数是最后一个出栈的，因为它是最先入栈的。
+
+
 
 
